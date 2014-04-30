@@ -1,0 +1,7 @@
+parameters:
+#    kokorozashi_website.example.class: Kokorozashi\WebsiteBundle\Example
+
+services:
+#    kokorozashi_website.example:
+#        class: %kokorozashi_website.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

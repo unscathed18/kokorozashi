@@ -1,0 +1,4 @@
+kokorozashi_website:
+    resource: "@KokorozashiWebsiteBundle/Resources/config/routing.yml"
+    prefix:   /
+
